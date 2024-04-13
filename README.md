@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karol!</h1>
-<h3 align="center">A passionate MBA psychologist turned into a developer with people and management skills</h3>
+<h3 align="center">A passionate psychologist turned into a developer with people and management skills</h3>
 
 - 🌱 I’m currently learning **Python and Java**
 
