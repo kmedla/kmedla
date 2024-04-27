@@ -1,5 +1,5 @@
 ![image](https://github.com/kmedla/kmedla/assets/75181494/da5a490b-d7bb-4d9e-8015-c8cf6262d3c1) 
-![octocat-1713003616645](https://github.com/kmedla/kmedla/assets/75181494/588d3812-c67c-4e98-bd63-7ae432582b1b) <h3 align="center">A curious psychologist that turned into a developer </h3>
+<h3 align="center">A curious psychologist that turned into a developer </h3>
 
 - 🌱 I’m currently learning **Python and Java**
 -  People and management skills
