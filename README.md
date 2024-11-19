@@ -1,8 +1,8 @@
 ![image](https://github.com/kmedla/kmedla/assets/75181494/da5a490b-d7bb-4d9e-8015-c8cf6262d3c1) 
-<h3 align="center">A curious psychologist that turned into a developer </h3>
+<h3 align="center">A curious psychologist turning into a developer </h3>
 
-- 🌱 I’m currently learning **Python and Java**
--  People and management skills
+- 🌱 I’m currently learning **Python and Java** while studying **DAM CFGS**.
+-  Techie with people and management skills
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
