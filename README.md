@@ -2,7 +2,7 @@
 <h3 align="center">A curious psychologist turning into a developer </h3>
 
 - 🌱 I’m currently learning **Python and Java** while studying **DAM CFGS**.
--  Techie with people and management skills
+-  The best of both worlds: a techie with people and management skills
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
